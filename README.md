@@ -1,5 +1,5 @@
 # LSTM prediction on S&P 500
-Segmented Strategy Optimization for S&amp;P 500 and Stock Prediction Techniques
+We proposed a Segmented Strategy Optimization for S&amp;P 500 and Stock Prediction Techniques, compare it with a normal LSTM model.
 
 # Prediction of S&P 500 by LSTM model and segmented strategy
 Under comparative experiment, we oberserve frequent trading leads to loss in return rate.
